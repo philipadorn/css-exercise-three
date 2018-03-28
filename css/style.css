@@ -92,3 +92,7 @@ nav {
   display: table;
   clear: both;
 }
+
+.location:hover {
+	background-color: #5CE9F8;
+}
